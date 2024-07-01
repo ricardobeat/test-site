@@ -3,7 +3,13 @@
 1. Clone this repository
 2. Go to 'Settings -> Pages' and enable it deploying from the `main` branch
 
-To edit:
+## Editing
+
+Fast option:
+
+1. Click index.html (or styles.css) and the 'Edit' button in the top right, edit and commit changes. You must know what you're doing as there is no preview :)
+
+With preview:
 
 1. Enable Codespaces in the repo (press `.` to enter the codespace)
 2. In the left sidebar, go to 'Extensions' and install 'Quick HTML Previewer'
