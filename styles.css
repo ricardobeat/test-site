@@ -5,7 +5,7 @@
 body {
     max-width: 720px;
     margin: auto;
-    padding: 96px 48px;
+    padding: 128px 48px;
     background: #0c0c0c;
     font-family: "IBM Plex Sans", -apple-system, sans-serif;
     font-size: 16px;
@@ -13,9 +13,9 @@ body {
     color: #f1f1f1;
 }
 
-h1 { font-size: 32px; }
-h2 { font-size: 23px; }
-h3 { font-size: 17px; }
+h1 { font-size: 36px; }
+h2 { font-size: 24px; }
+h3 { font-size: 18px; }
 h4 { font-size: 15px; }
 h5 { font-size: 13px; }
 
@@ -26,15 +26,15 @@ spacer {
     height: 8px;
 }
 
-spacer[size="2"] { height: 12px; }
-spacer[size="3"] { height: 24px; }
-spacer[size="4"] { height: 48px; }
+spacer[size="2"] { height: 8px; }
+spacer[size="3"] { height: 20px; }
+spacer[size="4"] { height: 40px; }
 
 a, a:visited { color: #c4c4c4; }
 a:hover { color: #f3f3f3; }
 
-section { margin-bottom: 48px; }
-section section { margin-bottom: 32px; }
+section { margin-bottom: 40px; }
+section section { margin-bottom: 28px; }
 
 .years { color: #c4c4c4; }
 
